@@ -44,13 +44,7 @@ Este repositório contém materiais de estudo, anotações e recursos úteis par
  ┗ 📜 README.md
 ```
 
-## 🚀 Como Contribuir
-Se quiser contribuir com novos materiais ou corrigir algo, fique à vontade para abrir um **Pull Request** ou uma **Issue**.
 
-## 🏆 Preparação para a Prova
-- Revise os conceitos fundamentais listados acima
-- Faça exercícios práticos e simulados
-- Utilize os laboratórios gratuitos do Azure
 
-**Boa sorte na sua certificação! 🎯**
+
 
