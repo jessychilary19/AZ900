@@ -39,8 +39,6 @@ Este repositório contém materiais de estudo, anotações e recursos úteis par
 📦 AZ-900-Study-Material
  ┣ 📁 Anotações
  ┣ 📁 Resumos
- ┣ 📁 Questões Práticas
- ┣ 📁 Laboratórios
  ┗ 📜 README.md
 ```
 
